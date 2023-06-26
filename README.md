@@ -13,4 +13,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This application can help promote Sustainable Development Goal (SDG) 11, which focuses on making cities and human settlements inclusive, safe, resilient, and sustainable. By developing an application for disaster risk management that is authentic, efficient, and informative, this study can help residents of Alitagtag, Batangas with disaster risk management while promoting sustainable development. 
 
 ## Goal 11: Sustainable Cities and Communities
-![SDG](https://github.com/dreibit/DelasAlas-Estole-ManaloJ/assets/113673829/aa01f10d-378f-42ae-a0b7-3e945d082929)
+![SDG](https://github.com/dreibit/DelasAlas-Estole-ManaloJ/assets/113673829/aa01f10d-378f-42ae-a0b7-3e945d082929) 
