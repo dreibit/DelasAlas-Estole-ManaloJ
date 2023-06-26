@@ -24,7 +24,7 @@
 
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of the developed application is to help the municipality of Alitagtag, Batangas in managing disaster risk. This application will help the residents of Alitagtag become knowledgeable in terms of disaster risks. Further, the reporting system will help the MDRRMO determine the places where the incidents happen and easily take action. With the notification feature, it will help the residents be alert during times of emergency so they can easily take action. This research is highly significant to the following recipients: 
 
-<p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residents of Alitagtag.</b> This study benefits the residents of Alitagtag because they can report incidents. Reporting gives more information to MDRRMO, and the residents will be notified during times of emergency so they can be prepared. 
+<p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residents of Alitagtag.</b> This study benefits the residents of Alitagtag because they can report incidents. Reporting gives more information to MDRRMO, and the residents will be notified during times of emergency so they can be prepared. 
 
 <p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MDRRMO.</b> The MDRRMO will benefit from the reports of residents in Alitagtag. The reports made are reviewed by them so that they can analyze, do better, and be prepared. 
 
