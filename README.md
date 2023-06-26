@@ -26,9 +26,9 @@
 
 <p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residents of Alitagtag.</b> This study benefits the residents of Alitagtag because they can report incidents. Reporting gives more information to MDRRMO, and the residents will be notified during times of emergency so they can be prepared. 
 
-<p align=justify><b></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MDRRMO.</b> The MDRRMO will benefit from the reports of residents in Alitagtag. The reports made are reviewed by them so that they can analyze, do better, and be prepared. 
+<p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MDRRMO.</b> The MDRRMO will benefit from the reports of residents in Alitagtag. The reports made are reviewed by them so that they can analyze, do better, and be prepared. 
 
-<p align=justify><b></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proponents.</b> The proponents who built this application can also benefit from this project, as it helps them enhance their skills and make them more creative. Working as a team helps improve communication between the members. In addition to that, one of the proponents is from Alitagtag.
+<p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proponents.</b> The proponents who built this application can also benefit from this project, as it helps them enhance their skills and make them more creative. Working as a team helps improve communication between the members. In addition to that, one of the proponents is from Alitagtag.
 
 <p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Researchers.</b> To those students who will undergo research studies soon. This study will serve as a reference for them, especially for those who proposed applications related to Disaster Risk Management.
 
