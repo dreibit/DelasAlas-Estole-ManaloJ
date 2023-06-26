@@ -20,5 +20,20 @@
 
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIGTAS focuses on helping the municipality of Alitagtag, Batangas, in disaster risk management to become more resilient in action in terms of disaster emergencies. The admin or the MDRRMO Alitagtag will be able to manage and make changes to the information in the disaster preparedness guide,  notify the residents during times of emergency, and view the reports of the residents.
 
+## Significance of the Proposed Project
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of the developed application is to help the municipality of Alitagtag, Batangas in managing disaster risk. This application will help the residents of Alitagtag become knowledgeable in terms of disaster risks. Further, the reporting system will help the MDRRMO determine the places where the incidents happen and easily take action. With the notification feature, it will help the residents be alert during times of emergency so they can easily take action. This research is highly significant to the following recipients: 
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residents of Alitagtag. This study benefits the residents of Alitagtag because they can report incidents. Reporting gives more information to MDRRMO, and the residents will be notified during times of emergency so they can be prepared. 
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MDRRMO. The MDRRMO will benefit from the reports of residents in Alitagtag. The reports made are reviewed by them so that they can analyze, do better, and be prepared. 
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proponents. The proponents who built this application can also benefit from this project, as it helps them enhance their skills and make them more creative. Working as a team helps improve communication between the members. In addition to that, one of the proponents is from Alitagtag.
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Researchers. To those students who will undergo research studies soon. This study will serve as a reference for them, especially for those who proposed applications related to Disaster Risk Management.
+
+
+
+
 
 
