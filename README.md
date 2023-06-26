@@ -14,3 +14,11 @@
 
 ## Goal 11: Sustainable Cities and Communities
 ![SDG](https://github.com/dreibit/DelasAlas-Estole-ManaloJ/assets/113673829/aa01f10d-378f-42ae-a0b7-3e945d082929) 
+
+## Purpose and Description
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residents of Alitagtag, Batangas need access to the internet in order to have access to the LIGTAS mobile application. To access the application residents of Alitagtag, Batangas need to create an account with information and valid ID for validation that they are residents of Alitagtag and also for them to access the features of the application. Lack of knowledge about disaster risks among citizens is another significant concern for MDRRMO. The study will provide a comprehensive disaster preparedness guide that includes step-by-step instructions on how to prepare for different types of disasters and even basic information like first aid. Meanwhile, the reporting system is also significant in this study as well as the real-time alert system. It will allow residents to report damaged properties, stocks, and equipment, as well as environmental hazards such as chemical spills or gas leaks. Real-time alert system will notify residents of emergencies.
+
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIGTAS focuses on helping the municipality of Alitagtag, Batangas, in disaster risk management to become more resilient in action in terms of disaster emergencies. The admin or the MDRRMO Alitagtag will be able to manage and make changes to the information in the disaster preparedness guide,  notify the residents during times of emergency, and view the reports of the residents.
+
+
+
