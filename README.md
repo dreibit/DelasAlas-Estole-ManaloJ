@@ -32,6 +32,8 @@
 
 <p align=justify><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future Researchers.</b> To those students who will undergo research studies soon. This study will serve as a reference for them, especially for those who proposed applications related to Disaster Risk Management.
  
+## Development Model
+![Development](https://github.com/dreibit/DelasAlas-Estole-ManaloJ/assets/113676687/50069b01-3346-4ab7-b750-364779846203)
 
 
 
