@@ -37,17 +37,17 @@
 
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the development of the system, the researchers will use agile methodology as shown in Figure above. The agile methodology will help with the development of the system by making it more efficient and effective. It also ensures that the project will be completed within the specific time given. Furthermore, it helps proponents make changes easily and quickly while keeping the overall project timeline consistent. The following various phases are:
 
-<b>a. Requirements.</b> The first phase is the system requirements, which include the understanding, goal, and purpose of the system in order to avoid problems in developing the system. Further, the proponents gather information to be able to identify the system's needs. The planning was also executed in order to set plans and be able to understand them.
+<p align=justify><b>a. Requirements.</b> The first phase is the system requirements, which include the understanding, goal, and purpose of the system in order to avoid problems in developing the system. Further, the proponents gather information to be able to identify the system's needs. The planning was also executed in order to set plans and be able to understand them.
 
-<b>b. Design.</b> The design phase is the specification document that was developed to outline the design's technical needs. This phase will also improve the system's interface. Moreover, the proponents studied the system's needs in order to visualize the 
+<p align=justify><b>b. Design.</b> The design phase is the specification document that was developed to outline the design's technical needs. This phase will also improve the system's interface. Moreover, the proponents studied the system's needs in order to visualize the 
 
-<b>c. Development.</b> The development phase involves the creation of the system, combining the thoughts of the system requirements and design in order to meet all defined system criteria. In this phase, the proponents will add up the ideas of the system requirements and design in order to create a functional system by coding.
+<p align=justify><b>c. Development.</b> The development phase involves the creation of the system, combining the thoughts of the system requirements and design in order to meet all defined system criteria. In this phase, the proponents will add up the ideas of the system requirements and design in order to create a functional system by coding.
 
-<b>d. Testing.</b> The testing phase involves the testing and integration of the code to make sure that it works. Its purpose is to guarantee that every component of the mobile application is working and performing the desired functions. Further, after the development, the proponents will run and test the code in order to identify the bugs and the things that need improvement.
+<p align=justify><b>d. Testing.</b> The testing phase involves the testing and integration of the code to make sure that it works. Its purpose is to guarantee that every component of the mobile application is working and performing the desired functions. Further, after the development, the proponents will run and test the code in order to identify the bugs and the things that need improvement.
 
-<b>e. Deployment.</b> The deployment phase begins once the testing is completed, then the system is ready for deployment. Hence, proponents will deploy the system once it has not had a problem and meets expectations and requirements.
+<p align=justify><b>e. Deployment.</b> The deployment phase begins once the testing is completed, then the system is ready for deployment. Hence, proponents will deploy the system once it has not had a problem and meets expectations and requirements.
 
-<b>f. Maintenance.</b> The maintenance phase involves the monitoring of errors in the system in order to make changes for the sake of the system. Likewise, the proponents will need system maintenance to be able to monitor and maintain its smoothness.
+<p align=justify><b>f. Maintenance.</b> The maintenance phase involves the monitoring of errors in the system in order to make changes for the sake of the system. Likewise, the proponents will need system maintenance to be able to monitor and maintain its smoothness.
 
 
 
