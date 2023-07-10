@@ -37,6 +37,9 @@
 
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the development of the system, the researchers will use agile methodology as shown in Figure above. The agile methodology will help with the development of the system by making it more efficient and effective. It also ensures that the project will be completed within the specific time given. Furthermore, it helps proponents make changes easily and quickly while keeping the overall project timeline consistent. The following various phases are:
 
+a. <b>Requirements.</b> The first phase is the system requirements, which include the understanding, goal, and purpose of the system in order to avoid problems in developing the system. Further, the proponents gather information to be able to identify the system's needs. The planning was also executed in order to set plans and be able to understand them.
+
+
 
 
 
