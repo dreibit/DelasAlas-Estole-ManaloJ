@@ -35,6 +35,9 @@
 ## Development Model
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Development](https://github.com/dreibit/DelasAlas-Estole-ManaloJ/assets/113676687/50069b01-3346-4ab7-b750-364779846203)
 
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the development of the system, the researchers will use agile methodology as shown in Figure above. The agile methodology will help with the development of the system by making it more efficient and effective. It also ensures that the project will be completed within the specific time given. Furthermore, it helps proponents make changes easily and quickly while keeping the overall project timeline consistent. The following various phases are:
+
+
 
 
 
