@@ -1,0 +1,97 @@
+<div>
+  <ion-menu menuId="main-menu" content-id="sidemenu">
+  
+        <ion-item>
+          <ion-avatar slot="start">
+            <img src="assets/images/vatar.png" class="avatar">
+          </ion-avatar>
+          <ion-label>
+            <h1>Juan Dela Cruz</h1>
+            <p>Poblacion East</p>
+          </ion-label>
+        </ion-item>
+    
+      <ion-content contentId="main-menu">
+     
+          <ion-menu-toggle >
+            <ion-item routerLink="/profile">
+              <ion-icon name="person-circle-outline" slot="start" class="iconsize"></ion-icon>
+              <ion-label class="cus">Profile</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+          
+          <ion-menu-toggle>
+            <ion-item routerLink="/notification">
+              <ion-icon name="notifications-outline" slot="start" class="iconsize"></ion-icon>
+              <ion-label class="cus">Notification</ion-label>
+              <ion-badge>1</ion-badge>
+            </ion-item>
+          </ion-menu-toggle>
+  
+          <ion-menu-toggle>
+            <ion-item routerLink="/landingpage">
+              <ion-icon name="log-out-outline" slot="start" class="iconsize"></ion-icon>
+              <ion-label class="cus">Logout</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+          
+       
+      </ion-content>
+    </ion-menu>
+    <ion-router-outlet id="sidemenu"></ion-router-outlet>
+  </div>
+    
+    
+    <div class="ion-page" id="main-content">
+      
+      <ion-header>
+        <ion-toolbar color="success">
+          <ion-buttons slot="start">
+            <ion-menu-button menu="main-menu" auto-hide="false"></ion-menu-button>
+          </ion-buttons>
+          <ion-title>LIGTAS</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      
+    
+        
+      <ion-content>
+    
+        <ion-card>
+          <img alt="Safety" src="../assets/images/preparedness.JPG" />
+          <ion-card-header>
+            <ion-card-title color = "success">Disaster Preparedness Guide</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            Gabay sa Paghahanda sa Sakuna
+          </ion-card-content>
+            <ion-button routerLink="/guide" size ="full" color ="success">View</ion-button>
+        </ion-card>
+      
+      
+        <ion-card>
+          <img alt="Safety" src="../assets/images/Report.JPG" class="ion-padding">
+          <ion-card-header>
+            <ion-card-title color = "success">Report</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            I-report ang mga nasirang ari-arian, mga sakuna na gawa ng tao, at mga aksidente.
+          </ion-card-content>
+          <ion-button routerLink="/report" size ="full" color ="success">View</ion-button>
+        </ion-card>
+      
+        <ion-card>
+          <img alt="Safety" src="../assets/images/Emergency.JPG" />
+          <ion-card-header>
+            <ion-card-title color = "success">Emergency Hotlines</ion-card-title>
+          </ion-card-header>
+        
+          <ion-card-content>
+            Narito ang mga numero na maaaring tawagan
+          </ion-card-content>
+          <ion-button routerLink="/hotlines" size ="full" color ="success">View</ion-button>
+        </ion-card>
+       
+      </ion-content>
+      </div>
+  

@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="success">
+    <ion-buttons slot="start">
+      <ion-back-button text="Back" icon="caret-back"></ion-back-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+    <ion-img width ="180"alt="logo" id="header_logo" src="assets/images/logo.png" class="center"></ion-img>
+
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title color="success">LIGTAS</ion-card-title>
+      </ion-card-header>
+  
+      <ion-card-content>
+        <ion-item>
+          <ion-input type="email"label="Email Address" label-placement="floating" fill="outline" placeholder="Enter Email"></ion-input>
+        </ion-item>
+        <ion-item>
+          <ion-input type ="password" label="Password" label-placement="floating" fill="outline" placeholder="Password"></ion-input>
+        </ion-item> 
+      </ion-card-content>
+      <ion-button color="dark" fill="clear" size = "full" routerLink="/forgotpass">Forgot Email/Password</ion-button>
+      <ion-button color="success" size="full" routerLink="/home">Login</ion-button>
+    </ion-card>
+
+</ion-content>
